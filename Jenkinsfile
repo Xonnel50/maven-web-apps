@@ -31,7 +31,7 @@ Landmark Technologies''', recipientProviders: [developers()], subject: 'status o
   }
   stage('emailDeployIssues') {
     emailext body: '''Thanks
-    emailext body: 'Please fix listed issues', recipientProviders: [developers()], subject: 'Issues', to: 'lennoxbailey@yahoo.com'      
+Landmark Technologies''', recipientProviders: [developers()], subject: 'Issues', to: 'lennoxbailey@yahoo.com'      
   }
 
 }
