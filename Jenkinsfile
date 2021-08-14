@@ -34,5 +34,4 @@ Landmark Technologies''', recipientProviders: [developers()], subject: 'status o
 emailext body: 'Please fix listed issues', recipientProviders: [developers()], subject: 'Issues', to: 'lennoxbailey@yahoo.com'
       
   }
- 
 }
