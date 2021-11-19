@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.198.57.17:8081/repository/keren-release/</url>
+	      <url>http://18.208.218.118:8081/repository/karlen_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.198.57.17:8081/repository/keren-snapshot/</url>
+	      <url>http://18.208.218.118:8081/repository/karlen_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
